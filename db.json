@@ -1,0 +1,22 @@
+{
+  "registros": [
+    {
+      "id": "1730123456789",
+      "representante": "Juan Pérez",
+      "equipo": "Los Innovadores",
+      "vp": "VP Finanzas",
+      "fecha_ingreso": "28/10/2025, 10:30:00",
+      "compromisos": {
+        "I": "Innovaremos en cada proceso para ser más ágiles.",
+        "N1": "Nos enfocaremos en el cliente siempre.",
+        "T": "Trabajaremos en equipo sin silos.",
+        "E": "Escucharemos activamente a nuestros compañeros.",
+        "R": "Respetaremos las opiniones diversas.",
+        "B": "Buscaremos la excelencia operativa.",
+        "A": "Aprenderemos de nuestros errores rápidamente.",
+        "N2": "Nunca dejaremos de soñar en grande.",
+        "K": "Keep it simple (lo mantendremos simple)."
+      }
+    }
+  ]
+}
